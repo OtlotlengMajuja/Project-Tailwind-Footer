@@ -12,9 +12,6 @@ Designing another section for various links and technology stacks.
 And finally, ensuring that the footer was responsive across different devices and screen sizes.
 
 # Reflections
-# Areas of Mastery
-
-
 # Challenges Faced 
 Tailwind CSS Styling Elements: The difficulty is this area was using the shorthands that I was introduced to, correctly. 
 
